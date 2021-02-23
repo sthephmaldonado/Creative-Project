@@ -34,7 +34,8 @@ These two texts give life lessons, and they employ a fairly simple narrative sty
       -	Prefix so each returned text can start with a “secret”
 
 I would like to comment that the GPT-2 part took too much time; it took me almost 3 days to generate the ending text. I tried terminating all my sessions, creating new files and running everything again, but I didn’t have any success, after trying and trying I opened a new copy of GPT (at night I am not sure if this influence in something) changed to safari instead of chrome and it worked, it generated a text (text below). I wanted to keep everything in one single notebook, but I just couldn’t, it never finished training. I will keep trying and if I come up with any results, I will update this part. 
-**Update: Using the same notebook (Creative Project) for the entire assignment failed, it never finished training. I was able to only get one sample on a separate file but I couldn't save it, since I run the time again and I lost it. But I copy paste the results and I saved them. Every cell and code is in Creativeproject.ipynb. The saved text for the only time it finished training is under finaltext.txt *
+
+**Update: Using the same notebook (Creative Project) for the entire assignment failed, it never finished training. I was able to only get one sample on a separate file but I couldn't save it, since I run the time again and I lost it. But I copy paste the results and I saved them. Every cell and code is in Creativeproject.ipynb. The saved text for the only time it finished training is under finaltext.txt*
 
 ### How to run the Project
 1.	Open the Creative Project (ipynb) file 

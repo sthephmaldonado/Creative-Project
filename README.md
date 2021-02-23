@@ -3,11 +3,11 @@
 ### Summary 
 For this Creative Project I decided to make it out of two philosophical texts “The Little Prince” by Antoine de Saint-Exupéry and “The Prophet” by Kahlil Gibran. 
 
-The little prince tells the story of a pilot who, while trying to repair his damaged plane in the middle of the Sahara Desert, runs into a little prince from asteroid B 612.
+**The little prince:** tells the story of a pilot who, while trying to repair his damaged plane in the middle of the Sahara Desert, runs into a little prince from asteroid B 612.
 A flower grew on the floor of the asteroid of the little prince. The little prince tries to take care of it, but the flower was capricious. The little prince abandons his asteroid and embarks on a journey through the universe in search of a friend. On the journey, the little prince visits several asteroids until he reaches Earth, he met a varied group of eccentric characters who convince him of how strange the world of adults is, always so busy with serious and important matters, that they forget to enjoy life.
 On Earth, the little prince came into contact with animals, flowers and people. It was there where he meets the fox, who will reveal to him the importance of friendship and the value of the love he feels for his flower. It will be the nostalgia for her (flower) and the disappointment that the adult world causes him that will motivate the little prince to return to his planet.
 
-The Prophet is written as a short prose poem that tries to encourage the reader to change their way of life based mainly on leading it in a balanced way with respect to divinity and inner peace. For Gibran, the obstacles and vicissitudes of the world are only tests that allow man to evolve and advance on the path towards purification, thus he shows us that the world will be better when men are able to come closer and coexist. Through his phrases, the understanding of numerous human emotions, temptations and feelings, such as pleasure, money, love, death and marriage is reached.
+**The Prophet:** is written as a short prose poem that tries to encourage the reader to change their way of life based mainly on leading it in a balanced way with respect to divinity and inner peace. For Gibran, the obstacles and vicissitudes of the world are only tests that allow man to evolve and advance on the path towards purification, thus he shows us that the world will be better when men are able to come closer and coexist. Through his phrases, the understanding of numerous human emotions, temptations and feelings, such as pleasure, money, love, death and marriage is reached.
 
 These two texts give life lessons, and they employ a fairly simple narrative style. One can be considered a children's book because of the way it is written but in which deep issues are actually addressed. In my opinion the combination of the texts will be generating an interesting text, since both texts a really philosophical oriented, focused on different aspects of life and how those can be addressed. Having an end result of a text that can deeply help or advice in some way on how to live life. 
 
@@ -19,21 +19,22 @@ These two texts give life lessons, and they employ a fairly simple narrative sty
 •	Run all the cells and adding my txt (PrinceProphet.txt)
 •	Generating my new Markovify text 
 2.	GPT-2 
-•	Create a copy of train a GTP-2 text-generating model w/GPU
+•	On the same note book copy the train a GTP-2 text-generating model w/GPU
 •	Run each cell and add my new Markovify text
-o	Before reaching the “Generate Text From The Trained Model” section the code was changed 
-gpt2.generate(sess,
+  o	Before reaching the “Generate Text From The Trained Model” section the code was changed 
+  gpt2.generate(sess,
               length=750,
               temperature=0.5,
               prefix="The secret to live life",
               nsamples=5,
               batch_size=5
               )
-o	Length to 750 to create the 3000 words required 
-o	Temperature 0.5 to keep the text neutral 
-o	Prefix so each returned text can start with a “secret”
+      o	Length to 750 to create the 3000 words required for the assignment
+      o	Temperature 0.5 to keep the text neutral 
+      o	Prefix so each returned text can start with a “secret”
 
 I would like to comment that the GPT-2 part took too much time; it took me almost 3 days to generate the ending text. I tried terminating all my sessions, creating new files and running everything again, but I didn’t have any success, after trying and trying I opened a new copy of GPT (at night I am not sure if this influence in something) changed to safari instead of chrome and it worked, it generated a text (text below). I wanted to keep everything in one single notebook, but I just couldn’t, it never finished training. I will keep trying and if I come up with any results, I will update this part. 
+**Update: Using the same notebook (Creative Project) for the entire assignment failed, it never finished training. I was able to only get one sample on a separate file but I couldn't save it, since I run the time again and I lost it. But I copy paste the results and I saved them. Every cell and code is in Creativeproject.ipynb. The saved text for the only time it finished training is under finaltext.txt *
 
 ### How to run the Project
 1.	Open the Creative Project (ipynb) file 

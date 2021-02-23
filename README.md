@@ -14,15 +14,15 @@ These two texts give life lessons, and they employ a fairly simple narrative sty
 ### Steps creating the text
 
 1.	Using Markovify
-•	I combined both texts into one single txt file (PrinceProphet.txt). 
-•	Then I used Exercise 1 as reference
-•	Run all the cells and adding my txt (PrinceProphet.txt)
-•	Generating my new Markovify text 
+  •	I combined both texts into one single txt file (PrinceProphet.txt). 
+  •	Then I used Exercise 1 as reference
+  •	Run all the cells and adding my txt (PrinceProphet.txt)
+  •	Generating my new Markovify text 
 2.	GPT-2 
-•	On the same note book copy the train a GTP-2 text-generating model w/GPU
-•	Run each cell and add my new Markovify text
-  o	Before reaching the “Generate Text From The Trained Model” section the code was changed 
-  gpt2.generate(sess,
+  •	On the same note book copy the train a GTP-2 text-generating model w/GPU
+  •	Run each cell and add my new Markovify text
+    o	Before reaching the “Generate Text From The Trained Model” section the code was changed 
+    gpt2.generate(sess,
               length=750,
               temperature=0.5,
               prefix="The secret to live life",

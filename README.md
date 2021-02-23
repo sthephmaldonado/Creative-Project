@@ -44,11 +44,14 @@ I would like to comment that the GPT-2 part took too much time; it took me almos
 6.	On the Generated text from the pretrained model section you will get the final results of the text 
 
 ### Samples 
-The secret to live life and dance to the song of the city gate and by night they would be revealed to me. I, too, shall look into space; you shall see. And the people as from a slight distance, that would make a stream upon whose bank you would accept the seasons of your beauty, yet they belong not to clear them.Suffer not yet our eyes to hunger for your growth so is he not more sweetly to the wind speaks not more mindful of his pigmy-self and the sun to them but a flash of yellow close to tears.I could not have you sing it with its roots.
-For in that knowledge become a memory. We wanderers, ever seeking the lonelier way, begin no day where we have given a much greater air of truth to my knees--and one of you would accept the seasons for their steps in the quiet urge that reveals your power?*
+**The secret to live life and dance to the song of the city gate and by night they would be revealed to me. I, too, shall look into space; you shall see. And the people as from a slight distance, that would make a stream upon whose bank you would accept the seasons of your beauty, yet they belong not to clear them.Suffer not yet our eyes to hunger for your growth so is he not more sweetly to the wind speaks not more mindful of his pigmy-self and the sun to them but a flash of yellow close to tears.I could not have you sing it with its roots.
+
+**For in that knowledge become a memory. We wanderers, ever seeking the lonelier way, begin no day where we have given a much greater air of truth to my knees--and one of you would accept the seasons for their steps in the quiet urge that reveals your power?*
 The secret to live life without sorrow?It is the captain of my eye, and you are in truth loving life, And to the sea, carrying the secrets of your dreams.And there are also as strong as your weakest link.Then he mopped his forehead with a certain sense of grief?Fain would I have three volcanoes.Your daily life is darkness, and in his life but add up figures.*
-Aye, in the sunlight and the sun is your god-self; It remains for ever undefiled.Yet unless the exchange be in the sand.
+
+**Aye, in the sunlight and the sun is your god-self; It remains for ever undefiled.Yet unless the exchange be in the sand.
 And he said: You would measure time into seasons, let each season encircle all the stars will be properly astonished to see all else, And if not the deep nor the high.
+
 The temperature influenced the text, so I tried to keep it less than 0.7. I wanted to try it on 0.1 but since I was able to train the text just once, I couldn’t go back and play more with the temperature. Unfortunately, I run the cells again because the runtime wasn’t working anymore. So I couldn’t keep working on it nor save it on the notebook, but I actually copy and paste the text that was generated since I saw that coming.  
 
 ### Artist Statement 
